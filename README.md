@@ -16,4 +16,4 @@ These scripts were originally written to create the [NYC Mass Transit Layers ser
 
 # How to run
 1. Clone the repo
-2. open and run eiter main.py or main.ipynb to download the data and create shapefiels
+2. open and run eiter main.py or main.ipynb to download the data and create shapefiles
